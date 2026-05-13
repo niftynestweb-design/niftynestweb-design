@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Moaz Aamir 👋
 
-<!--
-**niftynestweb-design/niftynestweb-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Nifty Nest — focused on building modern websites, Flutter applications, and clean UI systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Flutter
+- Dart
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+- Portfolio systems
+- Responsive UI architecture
+- Modern frontend experiences
+- SEO-focused websites
+
+## 📫 Connect With Me
+- LinkedIn
+- Instagram
+- Portfolio (Coming Soon)
+
+Building publicly and improving every day.
