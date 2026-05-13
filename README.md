@@ -19,6 +19,6 @@ Founder of Nifty Nest — focused on building modern websites, Flutter applicati
 ## 📫 Connect With Me
 - LinkedIn
 - Instagram
-- Portfolio (Coming Soon)
+- Portfolio 
 
 Building publicly and improving every day.
